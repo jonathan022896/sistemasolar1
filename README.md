@@ -24,7 +24,7 @@ Este proyecto es una página web que proporciona información sobre el sistema s
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/sistemasolar.git
+    git clone [https://github.com/jonathan022896/sistemasolar1.git]
     ```
 2. Navega al directorio del proyecto:
     ```sh
